@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-base-randi",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Pseudorandom numbers having integer values.",
   "license": "Apache-2.0",
   "author": {
