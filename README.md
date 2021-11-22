@@ -20,7 +20,7 @@ limitations under the License.
 
 # randi
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Pseudorandom numbers having integer values.
 
@@ -324,9 +324,9 @@ for ( i = 0; i < 100; i++ ) {
 
 ## See Also
 
--   [`@stdlib/random/base/minstd`][@stdlib/random/base/minstd]: A linear congruential pseudorandom number generator (LCG) based on Park and Miller.
--   [`@stdlib/random/base/minstd-shuffle`][@stdlib/random/base/minstd-shuffle]: A linear congruential pseudorandom number generator (LCG) whose output is shuffled.
--   [`@stdlib/random/base/mt19937`][@stdlib/random/base/mt19937]: A 32-bit Mersenne Twister pseudorandom number generator.
+-   <span class="package-name">[`@stdlib/random/base/minstd`][@stdlib/random/base/minstd]</span><span class="delimiter">: </span><span class="description">A linear congruential pseudorandom number generator (LCG) based on Park and Miller.</span>
+-   <span class="package-name">[`@stdlib/random/base/minstd-shuffle`][@stdlib/random/base/minstd-shuffle]</span><span class="delimiter">: </span><span class="description">A linear congruential pseudorandom number generator (LCG) whose output is shuffled.</span>
+-   <span class="package-name">[`@stdlib/random/base/mt19937`][@stdlib/random/base/mt19937]</span><span class="delimiter">: </span><span class="description">A 32-bit Mersenne Twister pseudorandom number generator.</span>
 
 </section>
 
@@ -377,8 +377,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/random-base-randi/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/random-base-randi?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/random-base-randi.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/random-base-randi/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
