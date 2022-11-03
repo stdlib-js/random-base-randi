@@ -31,13 +31,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import randi from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randi@deno/mod.js';
+import randi from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randi@v0.0.7-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randi@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randi@v0.0.7-deno/mod.js';
 ```
 
 #### randi()
@@ -281,7 +281,7 @@ var o = randi.toJSON();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import randi from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randi@deno/mod.js';
+import randi from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randi@v0.0.7-deno/mod.js';
 
 var seed;
 var rand;
