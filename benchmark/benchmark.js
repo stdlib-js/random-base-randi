@@ -20,7 +20,7 @@
 
 // MODULES //
 
-var bench = require( '@stdlib/bench' );
+var bench = require( '@stdlib/bench-harness' );
 var isnan = require( '@stdlib/math-base-assert-is-nan' );
 var floor = require( '@stdlib/math-base-special-floor' );
 var UINT32_MAX = require( '@stdlib/constants-uint32-max' );
