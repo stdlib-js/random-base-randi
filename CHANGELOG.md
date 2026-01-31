@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.2.2">
 
-## Unreleased (2025-07-28)
+## 0.2.2 (2026-01-31)
 
 <section class="bug-fixes">
 
@@ -34,6 +34,10 @@ This release closes the following issue:
 
 <details>
 
+-   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`54da286`](https://github.com/stdlib-js/stdlib/commit/54da28610f5ee6b2aa181addb1775d32f79043ee) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
+-   [`504a3f1`](https://github.com/stdlib-js/stdlib/commit/504a3f1d1db20b670b48efd1c292d7efbb433b58) - **style:** fix indentation in JSON files _(by Philipp Burckhardt)_
 -   [`45867ff`](https://github.com/stdlib-js/stdlib/commit/45867ff77862afa84e39f529328cd768d78444fe) - **chore:** fix EditorConfig lint errors [(#7179)](https://github.com/stdlib-js/stdlib/pull/7179) _(by Karan Vasudevamurthy, Athan Reines)_
 -   [`5939fb1`](https://github.com/stdlib-js/stdlib/commit/5939fb1afbdb5288ef65f449e448c77fe56c6dfd) - **fix:** update include paths and refactor branching logic _(by Athan Reines)_
 -   [`8a15baa`](https://github.com/stdlib-js/stdlib/commit/8a15baa639e8c4f45479821cf7331715e0546e86) - **docs:** update related packages sections [(#4425)](https://github.com/stdlib-js/stdlib/pull/4425) _(by stdlib-bot)_
